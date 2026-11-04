@@ -10,6 +10,7 @@ nav ul {
     gap: 20px;
     padding: 0;
     margin: 0;
+    font-size: 22px;
 
 }
 nav a {
@@ -20,6 +21,16 @@ nav a {
 header {
     padding: 20px 40px;
 }
-main,footer {
+main, footer {
     padding: 20px 40px;
+}
+#home {
+    padding: 60px 0;
+    
+}
+#home h1 {
+    font-size: 48px;
+}
+#home p {
+    font-size:28px;
 }
