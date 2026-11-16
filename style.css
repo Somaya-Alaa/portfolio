@@ -51,8 +51,15 @@ main, footer {
 .projects-grid {
     display: flex;
     gap: 10px;
-    flex: 1;
+  
 }
 .project-card h3{
     color: #af1497;
+}
+@media (max-width: 600px){
+    
+    .projects-grid{
+        flex-direction: column;
+    }
+
 }
