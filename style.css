@@ -56,6 +56,9 @@ main, footer {
 .project-card h3{
     color: #af1497;
 }
+.project-card p{
+    line-height: 1.4;
+}
 @media (max-width: 600px){
     
     .projects-grid{
